@@ -114,7 +114,8 @@ class LogVC: UIViewController, FSCalendarDataSource, FSCalendarDelegate, FSCalen
     }
     
     func onLogDetail() {
-        let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "LogDetailVC")
+        let vc = UIStoryboard(name: "Main", bundle: nil).instantiateViewController(withIdentifier: "LogDetailVC") as! LogDetailVC
+		vc.date = self.selectedDate
         self.navigationController?.pushViewController(vc, animated: true)
     }
     

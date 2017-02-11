@@ -23,6 +23,7 @@ class LogDetailVC: BaseInputVC {
     
     var memberId: String?
     var approver: String?
+	var date = Date()
     
     fileprivate lazy var dateFormat: DateFormatter = {
         let formatter = DateFormatter()
@@ -83,6 +84,7 @@ class LogDetailVC: BaseInputVC {
         btnSave.tap(saveData)
         btnCancel.tap(cancel)
 
+		startDateField.text = dateFormat.string(from: self.date) 
         startDateField.removeKeyboardObserver()
     }
     
