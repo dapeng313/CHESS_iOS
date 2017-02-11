@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  HRMS
+
+  Created by Apollo on 1/7/17.
+  Copyright © 2017 Apollo. All rights reserved.
+*/
+
+"register" = "Register";
+"login" = "Login";
+
+"chat" = "Chat";
+"attendance" = "Attendance";
+"settings" = "Settings";
+
+"my_applications" = "My Applications";
+"employee_applications" = "Employee Applications";
+"manager_applications" = "Manager Applications";
+
+"my_resume" = "My Resume";
+"my_attendence" = "My Attendence";
+"my_wages" = "My Wages";
+"my_exam" = "My Exam";
+"my_train" = "My Train";
+"my_journal" = "My Journal";
+"my_approval" = "My Approval";
+"my_task" = "My Task";
+"my_staff" = "My Staff";
+"staff_attendence" = "Staff Resume";
+"staff_wages" = "Staff Wages";
+"staff_exam" = "Staff Exam";
+"staff_train" = "Staff Train";
+"staff_task" = "Staff Task";
+"menu_more" = "More";
+
+"start_chat" = "Start Chat";
+"start" = "Start";
+
+"resume_main" = "Main Info";
+"resume_contract" = "Contracts";
+"resume_event" = "Events";
+"resume_edu" = "Educations";
+"resume_work" = "Works";
+"resume_training" = "Trainings";
+"resume_level" = "Work Level";

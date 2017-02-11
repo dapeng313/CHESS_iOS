@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  HRMS
+
+  Created by Apollo on 1/7/17.
+  Copyright © 2017 Apollo. All rights reserved.
+*/
+
+"register" = "登陆会员";
+"login" = "登录";
+
+"chat" = "消息";
+"attendance" = "签到";
+"settings" = "设置";
+
+"my_applications" = "我的应用";
+"employee_applications" = "员工应用";
+"manager_applications" = "经理应用";
+
+"my_resume" = "我的经历";
+"my_attendence" = "我的考勤";
+"my_wages" = "我的薪酬";
+"my_exam" = "我的考核";
+"my_train" = "我的培训";
+"my_journal" = "我的日志";
+"my_approval" = "我的审批";
+"my_task" = "我的任务";
+"my_staff" = "我的下属";
+"staff_attendence" = "下属考勤";
+"staff_wages" = "下属薪酬";
+"staff_exam" = "下属考核";
+"staff_train" = "下属培训";
+"staff_task" = "下属任务";
+"menu_more" = "更多应用";
+
+"start_chat" = "发起会话";
+"start" = "开始";
+
+"resume_main" = "其本信息";
+"resume_contract" = "合同信息";
+"resume_event" = "人事活动";
+"resume_edu" = "教育经历";
+"resume_work" = "工作经历";
+"resume_training" = "培训经历";
+"resume_level" = "职称等级";

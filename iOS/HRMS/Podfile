@@ -1,0 +1,40 @@
+
+platform :ios, '8.0'
+use_frameworks!
+
+target 'HRMS' do
+  pod 'Alamofire', '~> 4.0'
+  pod 'AlamofireNetworkActivityIndicator', '~> 2.1.0'
+  pod 'AlamofireJsonToObjects', '~> 2.4.0'
+  pod 'AlamofireImage', '~> 3.0'
+  pod 'AlamofireObjectMapper', '~> 4.0.1'
+
+  pod 'ObjectMapper', '~> 2.2.2'
+
+  pod 'FSCalendar'
+  pod 'Charts'
+
+  pod 'SteviaLayout', '~> 3.0.1'
+  pod 'ImageSlideshow', '~> 1.0.0'
+  pod 'AvatarImageView', '~> 2.0.2'
+
+  pod 'ViewDeck'
+
+  pod 'AMap3DMap'
+  pod 'ACEDrawingView'
+
+  pod 'FZAccordionTableView', '~>0.2.3'
+
+#these are for Netease-im
+  pod 'SDWebImage', '3.8.2'
+  pod 'Toast', '~> 3.0'
+  pod 'SVProgressHUD', '~> 2.0.3'
+  pod 'M80AttributedLabel', '~> 1.5.0'
+  pod 'TZImagePickerController', '~> 1.7.7'
+
+end
+
+target 'HRMSUITests' do
+
+end
+
